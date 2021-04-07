@@ -304,6 +304,9 @@ nav ul li a {
 	color: white;
 	
 }
+.contact  i{
+	line-height: 50px;
+}
 
 @media (max-width:480px){
 
