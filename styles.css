@@ -155,7 +155,7 @@ body {
     width: 300px;
     background: gray;
 
-    padding: 15px;
+    padding: 10px 0 5px 15px;
     margin: 10px;
 }
 .project-items a{
